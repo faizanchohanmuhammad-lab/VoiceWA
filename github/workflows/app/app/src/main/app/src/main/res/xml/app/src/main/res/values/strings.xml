@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Voice Phone Control</string>
+    <string name="accessibility_description">Lets Voice Phone Control read the screen, tap, type, scroll and open apps when you give a voice command. Screen text is sent to OpenAI to decide the next step; password fields are never read.</string>
+</resources>
